@@ -1,0 +1,60 @@
+body{
+    text-align:center;
+  }
+  #ALBUM{
+    width:450px;
+    height:450px;
+    border-style:solid;
+    padding:3px;
+  }
+  button{
+    background-color:red;
+    height:40px;
+    width:70px;
+  }
+
+  body {
+    text-align: center;
+    background-color: pink;
+  }
+  
+  h1 {
+    color: red;
+  }
+  
+  h4 {
+    color: blue;
+  }
+  
+  img {
+    width: 25%;
+    height: 25%;
+  }
+  
+  .center {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  button {
+    background-color: #4CAF50;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  
